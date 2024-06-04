@@ -5,7 +5,7 @@
             "category": "Appliance",
             "description": "Appliance with 16GB RAM and 512GB SSD",
             "price": 2000,
-            "img_url": "https://shakill23.github.io/allImages/airFryer.webp"
+            "img_url": "https://shakill23.github.io/allImages/images/airFryer.webp"
 
         },
         {
@@ -13,7 +13,7 @@
             "category": "Appliance",
             "description": "Appliance with 16GB RAM and 512GB SSD",
             "price": 2000,
-            "img_url": "https://shakill23.github.io/allImages/blender.jpg"
+            "img_url": "https://shakill23.github.io/allImages/images/blender.jpg"
 
         },
         {
@@ -21,7 +21,7 @@
             "category": "Appliance",
             "description": "Appliance with 16GB RAM and 512GB SSD",
             "price": 2000,
-            "img_url": "https://shakill23.github.io/allImages/kettle.webp"
+            "img_url": "https://shakill23.github.io/allImages/images/kettle.webp"
 
         },
         {
@@ -29,7 +29,7 @@
             "category": "Appliance",
             "description": "Appliance with 16GB RAM and 512GB SSD",
             "price": 2000,
-            "img_url": "https://shakill23.github.io/allImages/microwave.jpg"
+            "img_url": "https://shakill23.github.io/allImages/images/microwave.jpg"
 
         },
         {
@@ -37,7 +37,7 @@
             "category": "Appliance",
             "description": "Appliance with 16GB RAM and 512GB SSD",
             "price": 2000,
-            "img_url": "https://shakill23.github.io/allImages/expressoMachine.jpg"
+            "img_url": "https://shakill23.github.io/allImages/images/expressoMachine.jpg"
 
         }
     ]
