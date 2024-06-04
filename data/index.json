@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+        "productName": "Air Fryer",
+            "category": "Appliance",
+            "description": "Appliance with 16GB RAM and 512GB SSD",
+            "price": 2000,
+            "img_url": "https://shakill23.github.io/allImages/airFryer.webp"
+
+        },
+        {
+        "productName": "Blender",
+            "category": "Appliance",
+            "description": "Appliance with 16GB RAM and 512GB SSD",
+            "price": 2000,
+            "img_url": "https://shakill23.github.io/allImages/blender.jpg"
+
+        },
+        {
+        "productName": "Kettle",
+            "category": "Appliance",
+            "description": "Appliance with 16GB RAM and 512GB SSD",
+            "price": 2000,
+            "img_url": "https://shakill23.github.io/allImages/kettle.webp"
+
+        },
+        {
+        "productName": "Microwave",
+            "category": "Appliance",
+            "description": "Appliance with 16GB RAM and 512GB SSD",
+            "price": 2000,
+            "img_url": "https://shakill23.github.io/allImages/microwave.jpg"
+
+        },
+        {
+        "productName": "Expresso Machine",
+            "category": "Appliance",
+            "description": "Appliance with 16GB RAM and 512GB SSD",
+            "price": 2000,
+            "img_url": "https://shakill23.github.io/allImages/expressoMachine.jpg"
+
+        }
+    ]
+}
